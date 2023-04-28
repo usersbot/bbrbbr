@@ -1,4 +1,4 @@
-# Wix Bookings Template: A Next.js Coaching Professional Site
+# Wix Bookings Şablonu: Bir Next.js Koçluk Profesyoneli Sitesi
 
 ![](docs/media/template-showcase.gif)
 
@@ -19,7 +19,7 @@ When prompted to add functionalities to your new project, select Bookings and Pr
 You can also add these business solutions to your project later, as follows:
 
 1. Open the [Wix App Market](https://www.wix.com/my-account/site-selector/?buttonText=Select%20Site&title=Select%20a%20Site&autoSelectOnSingleSite=true&actionUrl=https:%2F%2Fwww.wix.com%2Fdashboard%2F%7B%7BmetaSiteId%7D%7D%2Fapp-market) in your project dashboard.
-2. Search for **Banabi Randevu - Wix Bookünh**, then click **Wix Bookings**. On the [Wix Bookings](https://www.wix.com/my-account/site-selector/?buttonText=Select%20Site&title=Select%20a%20Site&autoSelectOnSingleSite=true&actionUrl=https:%2F%2Fwww.wix.com%2Fdashboard%2F%7B%7BmetaSiteId%7D%7D%2Fapp-market/web-solution/wix-bookings) page, click **Add to Site**.
+2. Search for **Banabi Randevu - Wix Booking**, then click **Wix Bookings**. On the [Wix Bookings](https://www.wix.com/my-account/site-selector/?buttonText=Select%20Site&title=Select%20a%20Site&autoSelectOnSingleSite=true&actionUrl=https:%2F%2Fwww.wix.com%2Fdashboard%2F%7B%7BmetaSiteId%7D%7D%2Fapp-market/web-solution/wix-bookings) page, click **Add to Site**.
 2. Search for **Wix Pricing Plans**, then click **Wix Pricing Plans**. On the [Wix Pricing Plans](https://www.wix.com/my-account/site-selector/?buttonText=Select%20Site&title=Select%20a%20Site&autoSelectOnSingleSite=true&actionUrl=https:%2F%2Fwww.wix.com%2Fdashboard%2F%7B%7BmetaSiteId%7D%7D%2Fapp-market/web-solution/paid-plans) page, click **Add to Site**.
 
 ### Step 2: Set up the Wix business solutions you need
